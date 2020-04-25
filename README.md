@@ -53,6 +53,7 @@ Credits: https://github.com/pomber/covid19, https://github.com/CSSEGISandData/CO
 
 #### Visualizations
 - [Covid 19 Cases to Population Ratio](https://studio.here.com/viewer/?project_id=fc72e094-6ade-4c2f-8e9c-ecf902b36709)
+- [Covid 19 Cases Global Static Analysis](http://geojson.tools/?url=https://jsanjay63.github.io/covid19-geoextractor/output/covid19_time_series.geojson)
 
 ## License
 
