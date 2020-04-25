@@ -5,10 +5,10 @@ const parse = require("csv-parse/lib/sync");
 const FILENAME_CONFIRMED = "time_series_covid19_confirmed_global.csv";
 const FILENAME_DEATHS = "time_series_covid19_deaths_global.csv";
 const FILENAME_RECOVERED = "time_series_covid19_recovered_global.csv";
-const COUNTRIES_GEOJSON = "data/input/countries.geojson";
+const COUNTRIES_GEOJSON = "countries.geojson";
 
-function readCountriesGeojson() {
-  let countriesGeoData = JSON.parse(fs.readFileSync(COUNTRIES_GEOJSON));
+function readCountriesGeojson(countriesGeoPath) {
+  let countriesGeoData = JSON.parse(fs.readFileSync(countriesGeoPath));
   let countryIsoMap = {}
   let countryGeoMap = {}
   for(let featureIndex in countriesGeoData["features"]) {
@@ -75,7 +75,7 @@ function createGeojson(countryIsoMap, countryGeoMap, countryCovidCountMap) {
   return geojsonResult;
 }
 
-function update(dataPath, outputDir) {
+function update(dataPath, inputDir, outputDir) {
   const [confirmed, dates] = extract(
     path.resolve(dataPath, FILENAME_CONFIRMED)
   );
@@ -95,7 +95,7 @@ function update(dataPath, outputDir) {
     });
   });
 
-  const [countryIsoMap, countryGeoMap] = readCountriesGeojson(COUNTRIES_GEOJSON);
+  const [countryIsoMap, countryGeoMap] = readCountriesGeojson(inputDir + path.sep + COUNTRIES_GEOJSON);
   const geojsonResults = createGeojson(countryIsoMap, countryGeoMap, jsonResults);
 
   if(!fs.existsSync(outputDir)) {
