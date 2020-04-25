@@ -1,4 +1,7 @@
-name: "Extract Covid 19 data in GeoFormats."
+name: "Covid19-GeoExtractor"
+description: "Extract Covid 19 data in GeoFormats like Geojson."
+icon: "database"
+color: "yellow"
 runs:
   using: "node12"
   main: "action.js"
