@@ -11,7 +11,7 @@ const dataPath = path.join(
   "csse_covid_19_data",
   "csse_covid_19_time_series"
 );
-const outputDir = path.join(WORKSPACE, MAIN_REPO, "data", "output");
+const outputDir = path.join(WORKSPACE, MAIN_REPO, "docs", "output");
 const inputDir = path.join(WORKSPACE, MAIN_REPO, "data", "input");
 
 update(dataPath, inputDir, outputDir);

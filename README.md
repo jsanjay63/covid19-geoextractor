@@ -1,7 +1,7 @@
 # Covid 19 - GeoExtractor
 GeoFormats like Geojson time-series of Coronavirus cases (confirmed, deaths and recovered) per country - updated daily
 
-Transforms the data from [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) into a GeoFormat datasets like Geojson file. Available at [https://jsanjay63.github.io/covid19/covid19_time_series.geojson](https://pomber.github.io/covid19/covid19_time_series.geojson). Updated every 2 hours using GitHub Actions.
+Transforms the data from [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) into a GeoFormat datasets like Geojson file. Available at [https://jsanjay63.github.io/covid19/covid19_time_series.geojson](https://jsanjay63.github.io/covid19/covid19_time_series.geojson). Updated every 2 hours using GitHub Actions.
 
 The Geojson contains the number of Coronavirus confirmed cases, deaths, and recovered cases for every country and every day since 2020-1-22:
 

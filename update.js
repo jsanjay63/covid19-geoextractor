@@ -101,7 +101,7 @@ function update(dataPath, inputDir, outputDir) {
   if(!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }
-  const outputFilePath = outputDir + path.sep + "covid19_time_series.json";
+  const outputFilePath = outputDir + path.sep + "covid19_time_series.geojson";
   fs.writeFileSync(outputFilePath, JSON.stringify(geojsonResults, null, 2));
   console.log("File write successful: " + outputFilePath);
 }
