@@ -1,0 +1,30 @@
+{
+  "name": "covid19-geoextractor",
+  "version": "1.0.0",
+  "description": "GeoFormats like Geojson time-series of Coronavirus cases (confirmed, deaths and recovered) per country - updated daily",
+  "main": "action.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "dependencies": {
+    "csv-parse": "^4.8.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "covid-19",
+    "geojson",
+    "time-series",
+    "dataset",
+    "data",
+    "coronavirus",
+    "geoformats",
+    "csse",
+    "gis"
+  ],
+  "author": "jsanjay63@gmail.com",
+  "license": "MIT"
+}

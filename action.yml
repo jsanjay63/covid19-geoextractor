@@ -1,0 +1,4 @@
+name: "Extract Covid 19 data in GeoFormats."
+runs:
+  using: "node12"
+  main: "action.js"
