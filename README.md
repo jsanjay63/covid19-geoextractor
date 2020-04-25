@@ -6,15 +6,6 @@ Transforms the data from [CSSEGISandData/COVID-19](https://github.com/CSSEGISand
 The Geojson contains the number of Coronavirus confirmed cases, deaths, and recovered cases for every country and every day since 2020-1-22:
 
 ```
-geometry:Object
-type:"MultiPolygon"
-properties:Object
-iso:"USA"
-name:"US"
-dates:Object
-current_confirmed:869170
-current_recovered:80203
-current_deaths:49954
 {
   "type": "FeatureCollection",
   "features": [{
