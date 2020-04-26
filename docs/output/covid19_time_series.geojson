@@ -4753,37 +4753,37 @@
           },
           "2020-4-20": {
             "confirmed": 6623,
-            "recovered": 4124,
+            "recovered": 4291,
             "deaths": 67
           },
           "2020-4-21": {
             "confirmed": 6645,
-            "recovered": 4124,
+            "recovered": 4695,
             "deaths": 67
           },
           "2020-4-22": {
             "confirmed": 6652,
-            "recovered": 4124,
+            "recovered": 4932,
             "deaths": 67
           },
           "2020-4-23": {
             "confirmed": 6662,
-            "recovered": 4124,
+            "recovered": 5047,
             "deaths": 75
           },
           "2020-4-24": {
             "confirmed": 6677,
-            "recovered": 4124,
+            "recovered": 5136,
             "deaths": 79
           },
           "2020-4-25": {
             "confirmed": 6694,
-            "recovered": 4223,
+            "recovered": 5376,
             "deaths": 80
           }
         },
         "current_confirmed": 6694,
-        "current_recovered": 4223,
+        "current_recovered": 5376,
         "current_deaths": 80
       },
       "geometry": {
