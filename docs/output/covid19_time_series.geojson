@@ -37390,38 +37390,38 @@
             "deaths": 22157
           },
           "2020-4-24": {
-            "confirmed": 219764,
+            "confirmed": 202990,
             "recovered": 92355,
             "deaths": 22524
           },
           "2020-4-25": {
-            "confirmed": 223759,
+            "confirmed": 205905,
             "recovered": 95708,
             "deaths": 22902
           },
           "2020-4-26": {
-            "confirmed": 226629,
-            "recovered": 117727,
+            "confirmed": 207634,
+            "recovered": 98372,
             "deaths": 23190
           },
           "2020-4-27": {
-            "confirmed": 229422,
-            "recovered": 120832,
+            "confirmed": 209465,
+            "recovered": 100875,
             "deaths": 23521
           },
           "2020-4-28": {
-            "confirmed": 232128,
-            "recovered": 123903,
+            "confirmed": 210773,
+            "recovered": 102548,
             "deaths": 23822
           },
           "2020-4-29": {
-            "confirmed": 236899,
-            "recovered": 132929,
+            "confirmed": 212917,
+            "recovered": 108947,
             "deaths": 24275
           }
         },
-        "current_confirmed": 236899,
-        "current_recovered": 132929,
+        "current_confirmed": 212917,
+        "current_recovered": 108947,
         "current_deaths": 24275
       },
       "geometry": {
