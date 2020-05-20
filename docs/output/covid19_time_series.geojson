@@ -42116,12 +42116,12 @@
           },
           "2020-5-19": {
             "confirmed": 232037,
-            "recovered": 0,
+            "recovered": 150376,
             "deaths": 27778
           }
         },
         "current_confirmed": 232037,
-        "current_recovered": 0,
+        "current_recovered": 150376,
         "current_deaths": 27778
       },
       "geometry": {
