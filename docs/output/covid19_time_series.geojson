@@ -139400,14 +139400,14 @@
             "deaths": 104381
           },
           "2020-6-1": {
-            "confirmed": 1811360,
+            "confirmed": 1811020,
             "recovered": 458231,
-            "deaths": 105165
+            "deaths": 105149
           }
         },
-        "current_confirmed": 1811360,
+        "current_confirmed": 1811020,
         "current_recovered": 458231,
-        "current_deaths": 105165
+        "current_deaths": 105149
       },
       "geometry": {
         "type": "MultiPolygon",
