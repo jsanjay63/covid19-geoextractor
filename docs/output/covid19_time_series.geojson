@@ -28051,22 +28051,22 @@
           },
           "2020-6-2": {
             "confirmed": 108686,
-            "recovered": 21325,
+            "recovered": 86173,
             "deaths": 1188
           },
           "2020-6-3": {
             "confirmed": 113628,
-            "recovered": 21605,
+            "recovered": 90748,
             "deaths": 1275
           },
           "2020-6-4": {
             "confirmed": 118292,
-            "recovered": 21305,
+            "recovered": 95631,
             "deaths": 1356
           }
         },
         "current_confirmed": 118292,
-        "current_recovered": 21305,
+        "current_recovered": 95631,
         "current_deaths": 1356
       },
       "geometry": {
