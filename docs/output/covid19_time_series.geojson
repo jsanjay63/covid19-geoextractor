@@ -18614,14 +18614,14 @@
             "deaths": 34021
           },
           "2020-6-5": {
-            "confirmed": 614941,
-            "recovered": 0,
-            "deaths": 34021
+            "confirmed": 645771,
+            "recovered": 266940,
+            "deaths": 35026
           }
         },
-        "current_confirmed": 614941,
-        "current_recovered": 0,
-        "current_deaths": 34021
+        "current_confirmed": 645771,
+        "current_recovered": 266940,
+        "current_deaths": 35026
       },
       "geometry": {
         "type": "Polygon",
