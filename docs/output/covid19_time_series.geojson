@@ -144002,32 +144002,32 @@
           "2020-6-3": {
             "confirmed": 1851520,
             "recovered": 479258,
-            "deaths": 107175
+            "deaths": 107161
           },
           "2020-6-4": {
             "confirmed": 1872660,
             "recovered": 485002,
-            "deaths": 108211
+            "deaths": 108197
           },
           "2020-6-5": {
             "confirmed": 1897380,
             "recovered": 491706,
-            "deaths": 109132
+            "deaths": 109118
           },
           "2020-6-6": {
             "confirmed": 1920061,
             "recovered": 500849,
-            "deaths": 109802
+            "deaths": 109787
           },
           "2020-6-7": {
             "confirmed": 1942363,
             "recovered": 506367,
-            "deaths": 110514
+            "deaths": 110497
           }
         },
         "current_confirmed": 1942363,
         "current_recovered": 506367,
-        "current_deaths": 110514
+        "current_deaths": 110497
       },
       "geometry": {
         "type": "MultiPolygon",
