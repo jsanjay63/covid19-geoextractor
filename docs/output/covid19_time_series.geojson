@@ -144020,14 +144020,14 @@
             "deaths": 109787
           },
           "2020-6-7": {
-            "confirmed": 1942363,
+            "confirmed": 1943647,
             "recovered": 506367,
-            "deaths": 110497
+            "deaths": 110508
           }
         },
-        "current_confirmed": 1942363,
+        "current_confirmed": 1943647,
         "current_recovered": 506367,
-        "current_deaths": 110497
+        "current_deaths": 110508
       },
       "geometry": {
         "type": "MultiPolygon",
