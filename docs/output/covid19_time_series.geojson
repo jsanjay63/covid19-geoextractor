@@ -145562,12 +145562,12 @@
           "2020-6-9": {
             "confirmed": 1973230,
             "recovered": 524855,
-            "deaths": 111694
+            "deaths": 111989
           }
         },
         "current_confirmed": 1973230,
         "current_recovered": 524855,
-        "current_deaths": 111694
+        "current_deaths": 111989
       },
       "geometry": {
         "type": "MultiPolygon",
