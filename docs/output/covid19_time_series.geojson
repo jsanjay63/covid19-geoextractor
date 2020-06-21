@@ -153257,17 +153257,17 @@
           "2020-6-18": {
             "confirmed": 2191052,
             "recovered": 599115,
-            "deaths": 118434
+            "deaths": 118432
           },
           "2020-6-19": {
-            "confirmed": 2220961,
+            "confirmed": 2222579,
             "recovered": 606715,
-            "deaths": 119112
+            "deaths": 119124
           }
         },
-        "current_confirmed": 2220961,
+        "current_confirmed": 2222579,
         "current_recovered": 606715,
-        "current_deaths": 119112
+        "current_deaths": 119124
       },
       "geometry": {
         "type": "MultiPolygon",
