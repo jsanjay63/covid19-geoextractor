@@ -20289,7 +20289,7 @@
             "deaths": 48954
           },
           "2020-6-20": {
-            "confirmed": 1032913,
+            "confirmed": 1067579,
             "recovered": 576779,
             "deaths": 49976
           },
@@ -140662,24 +140662,24 @@
             "deaths": 5053
           },
           "2020-6-19": {
-            "confirmed": 56043,
+            "confirmed": 58076,
             "recovered": 0,
-            "deaths": 5053
+            "deaths": 5105
           },
           "2020-6-20": {
-            "confirmed": 56043,
+            "confirmed": 58591,
             "recovered": 0,
-            "deaths": 5053
+            "deaths": 5109
           },
           "2020-6-21": {
-            "confirmed": 56043,
+            "confirmed": 58848,
             "recovered": 0,
-            "deaths": 5053
+            "deaths": 5111
           }
         },
-        "current_confirmed": 56043,
+        "current_confirmed": 58848,
         "current_recovered": 0,
-        "current_deaths": 5053
+        "current_deaths": 5111
       },
       "geometry": {
         "type": "MultiPolygon",
