@@ -157105,19 +157105,19 @@
             "deaths": 120402
           },
           "2020-6-23": {
-            "confirmed": 2347022,
+            "confirmed": 2347491,
             "recovered": 647548,
-            "deaths": 121228
+            "deaths": 121231
           },
           "2020-6-24": {
-            "confirmed": 2381493,
+            "confirmed": 2382327,
             "recovered": 656161,
-            "deaths": 121980
+            "deaths": 121985
           }
         },
-        "current_confirmed": 2381493,
+        "current_confirmed": 2382327,
         "current_recovered": 656161,
-        "current_deaths": 121980
+        "current_deaths": 121985
       },
       "geometry": {
         "type": "MultiPolygon",
