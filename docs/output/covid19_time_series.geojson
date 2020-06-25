@@ -777,11 +777,16 @@
             "confirmed": 29481,
             "recovered": 9260,
             "deaths": 618
+          },
+          "2020-6-24": {
+            "confirmed": 30175,
+            "recovered": 10174,
+            "deaths": 675
           }
         },
-        "current_confirmed": 29481,
-        "current_recovered": 9260,
-        "current_deaths": 618
+        "current_confirmed": 30175,
+        "current_recovered": 10174,
+        "current_deaths": 675
       },
       "geometry": {
         "type": "Polygon",
@@ -1843,9 +1848,14 @@
             "confirmed": 189,
             "recovered": 77,
             "deaths": 10
+          },
+          "2020-6-24": {
+            "confirmed": 197,
+            "recovered": 77,
+            "deaths": 10
           }
         },
-        "current_confirmed": 189,
+        "current_confirmed": 197,
         "current_recovered": 77,
         "current_deaths": 10
       },
@@ -2939,11 +2949,16 @@
             "confirmed": 2047,
             "recovered": 1195,
             "deaths": 45
+          },
+          "2020-6-24": {
+            "confirmed": 2192,
+            "recovered": 1250,
+            "deaths": 48
           }
         },
-        "current_confirmed": 2047,
-        "current_recovered": 1195,
-        "current_deaths": 45
+        "current_confirmed": 2192,
+        "current_recovered": 1250,
+        "current_deaths": 48
       },
       "geometry": {
         "type": "Polygon",
@@ -3817,11 +3832,16 @@
             "confirmed": 45683,
             "recovered": 33703,
             "deaths": 305
+          },
+          "2020-6-24": {
+            "confirmed": 46563,
+            "recovered": 35165,
+            "deaths": 308
           }
         },
-        "current_confirmed": 45683,
-        "current_recovered": 33703,
-        "current_deaths": 305
+        "current_confirmed": 46563,
+        "current_recovered": 35165,
+        "current_deaths": 308
       },
       "geometry": {
         "type": "Polygon",
@@ -4695,11 +4715,16 @@
             "confirmed": 47203,
             "recovered": 13576,
             "deaths": 1078
+          },
+          "2020-6-24": {
+            "confirmed": 49851,
+            "recovered": 13816,
+            "deaths": 1116
           }
         },
-        "current_confirmed": 47203,
-        "current_recovered": 13576,
-        "current_deaths": 1078
+        "current_confirmed": 49851,
+        "current_recovered": 13816,
+        "current_deaths": 1116
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5975,11 +6000,16 @@
             "confirmed": 21006,
             "recovered": 10144,
             "deaths": 372
+          },
+          "2020-6-24": {
+            "confirmed": 22488,
+            "recovered": 11335,
+            "deaths": 397
           }
         },
-        "current_confirmed": 21006,
-        "current_recovered": 10144,
-        "current_deaths": 372
+        "current_confirmed": 22488,
+        "current_recovered": 11335,
+        "current_deaths": 397
       },
       "geometry": {
         "type": "Polygon",
@@ -6845,11 +6875,16 @@
             "confirmed": 7521,
             "recovered": 6924,
             "deaths": 103
+          },
+          "2020-6-24": {
+            "confirmed": 7558,
+            "recovered": 6942,
+            "deaths": 104
           }
         },
-        "current_confirmed": 7521,
-        "current_recovered": 6924,
-        "current_deaths": 103
+        "current_confirmed": 7558,
+        "current_recovered": 6942,
+        "current_deaths": 104
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8605,11 +8640,16 @@
             "confirmed": 17408,
             "recovered": 16261,
             "deaths": 693
+          },
+          "2020-6-24": {
+            "confirmed": 17477,
+            "recovered": 16320,
+            "deaths": 698
           }
         },
-        "current_confirmed": 17408,
-        "current_recovered": 16261,
-        "current_deaths": 693
+        "current_confirmed": 17477,
+        "current_recovered": 16320,
+        "current_deaths": 698
       },
       "geometry": {
         "type": "Polygon",
@@ -9543,11 +9583,16 @@
             "confirmed": 13715,
             "recovered": 7503,
             "deaths": 167
+          },
+          "2020-6-24": {
+            "confirmed": 14305,
+            "recovered": 7768,
+            "deaths": 174
           }
         },
-        "current_confirmed": 13715,
-        "current_recovered": 7503,
-        "current_deaths": 167
+        "current_confirmed": 14305,
+        "current_recovered": 7768,
+        "current_deaths": 174
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10515,6 +10560,11 @@
             "confirmed": 144,
             "recovered": 93,
             "deaths": 1
+          },
+          "2020-6-24": {
+            "confirmed": 144,
+            "recovered": 93,
+            "deaths": 1
           }
         },
         "current_confirmed": 144,
@@ -11357,11 +11407,16 @@
             "confirmed": 60810,
             "recovered": 16771,
             "deaths": 9713
+          },
+          "2020-6-24": {
+            "confirmed": 61007,
+            "recovered": 16771,
+            "deaths": 9726
           }
         },
-        "current_confirmed": 60810,
+        "current_confirmed": 61007,
         "current_recovered": 16771,
-        "current_deaths": 9713
+        "current_deaths": 9726
       },
       "geometry": {
         "type": "Polygon",
@@ -12207,11 +12262,16 @@
             "confirmed": 850,
             "recovered": 272,
             "deaths": 13
+          },
+          "2020-6-24": {
+            "confirmed": 1017,
+            "recovered": 288,
+            "deaths": 14
           }
         },
-        "current_confirmed": 850,
-        "current_recovered": 272,
-        "current_deaths": 13
+        "current_confirmed": 1017,
+        "current_recovered": 288,
+        "current_deaths": 14
       },
       "geometry": {
         "type": "Polygon",
@@ -13097,10 +13157,15 @@
             "confirmed": 907,
             "recovered": 823,
             "deaths": 53
+          },
+          "2020-6-24": {
+            "confirmed": 934,
+            "recovered": 826,
+            "deaths": 53
           }
         },
-        "current_confirmed": 907,
-        "current_recovered": 823,
+        "current_confirmed": 934,
+        "current_recovered": 826,
         "current_deaths": 53
       },
       "geometry": {
@@ -14043,11 +14108,16 @@
             "confirmed": 119198,
             "recovered": 47635,
             "deaths": 1545
+          },
+          "2020-6-24": {
+            "confirmed": 126606,
+            "recovered": 51495,
+            "deaths": 1621
           }
         },
-        "current_confirmed": 119198,
-        "current_recovered": 47635,
-        "current_deaths": 1545
+        "current_confirmed": 126606,
+        "current_recovered": 51495,
+        "current_deaths": 1621
       },
       "geometry": {
         "type": "Polygon",
@@ -14977,11 +15047,16 @@
             "confirmed": 4114,
             "recovered": 2217,
             "deaths": 208
+          },
+          "2020-6-24": {
+            "confirmed": 4242,
+            "recovered": 2263,
+            "deaths": 209
           }
         },
-        "current_confirmed": 4114,
-        "current_recovered": 2217,
-        "current_deaths": 208
+        "current_confirmed": 4242,
+        "current_recovered": 2263,
+        "current_deaths": 209
       },
       "geometry": {
         "type": "Polygon",
@@ -15879,6 +15954,11 @@
             "confirmed": 104,
             "recovered": 83,
             "deaths": 11
+          },
+          "2020-6-24": {
+            "confirmed": 104,
+            "recovered": 83,
+            "deaths": 11
           }
         },
         "current_confirmed": 104,
@@ -16763,11 +16843,16 @@
             "confirmed": 3588,
             "recovered": 2285,
             "deaths": 172
+          },
+          "2020-6-24": {
+            "confirmed": 3676,
+            "recovered": 2297,
+            "deaths": 173
           }
         },
-        "current_confirmed": 3588,
-        "current_recovered": 2285,
-        "current_deaths": 172
+        "current_confirmed": 3676,
+        "current_recovered": 2297,
+        "current_deaths": 173
       },
       "geometry": {
         "type": "Polygon",
@@ -17641,11 +17726,16 @@
             "confirmed": 59487,
             "recovered": 38688,
             "deaths": 357
+          },
+          "2020-6-24": {
+            "confirmed": 60382,
+            "recovered": 41448,
+            "deaths": 367
           }
         },
-        "current_confirmed": 59487,
-        "current_recovered": 38688,
-        "current_deaths": 357
+        "current_confirmed": 60382,
+        "current_recovered": 41448,
+        "current_deaths": 367
       },
       "geometry": {
         "type": "Polygon",
@@ -18607,6 +18697,11 @@
             "confirmed": 23,
             "recovered": 17,
             "deaths": 2
+          },
+          "2020-6-24": {
+            "confirmed": 23,
+            "recovered": 17,
+            "deaths": 2
           }
         },
         "current_confirmed": 23,
@@ -19477,11 +19572,16 @@
             "confirmed": 26389,
             "recovered": 6300,
             "deaths": 846
+          },
+          "2020-6-24": {
+            "confirmed": 27487,
+            "recovered": 6795,
+            "deaths": 876
           }
         },
-        "current_confirmed": 26389,
-        "current_recovered": 6300,
-        "current_deaths": 846
+        "current_confirmed": 27487,
+        "current_recovered": 6795,
+        "current_deaths": 876
       },
       "geometry": {
         "type": "Polygon",
@@ -20507,11 +20607,16 @@
             "confirmed": 1145906,
             "recovered": 627963,
             "deaths": 52645
+          },
+          "2020-6-24": {
+            "confirmed": 1188631,
+            "recovered": 660469,
+            "deaths": 53830
           }
         },
-        "current_confirmed": 1145906,
-        "current_recovered": 627963,
-        "current_deaths": 52645
+        "current_confirmed": 1188631,
+        "current_recovered": 660469,
+        "current_deaths": 53830
       },
       "geometry": {
         "type": "Polygon",
@@ -22109,6 +22214,11 @@
             "confirmed": 141,
             "recovered": 138,
             "deaths": 3
+          },
+          "2020-6-24": {
+            "confirmed": 141,
+            "recovered": 138,
+            "deaths": 3
           }
         },
         "current_confirmed": 141,
@@ -22928,6 +23038,11 @@
             "deaths": 0
           },
           "2020-6-23": {
+            "confirmed": 70,
+            "recovered": 34,
+            "deaths": 0
+          },
+          "2020-6-24": {
             "confirmed": 70,
             "recovered": 34,
             "deaths": 0
@@ -23773,9 +23888,14 @@
             "confirmed": 89,
             "recovered": 25,
             "deaths": 1
+          },
+          "2020-6-24": {
+            "confirmed": 92,
+            "recovered": 25,
+            "deaths": 1
           }
         },
-        "current_confirmed": 89,
+        "current_confirmed": 92,
         "current_recovered": 25,
         "current_deaths": 1
       },
@@ -24723,11 +24843,16 @@
             "confirmed": 3051,
             "recovered": 522,
             "deaths": 37
+          },
+          "2020-6-24": {
+            "confirmed": 3099,
+            "recovered": 572,
+            "deaths": 38
           }
         },
-        "current_confirmed": 3051,
-        "current_recovered": 522,
-        "current_deaths": 37
+        "current_confirmed": 3099,
+        "current_recovered": 572,
+        "current_deaths": 38
       },
       "geometry": {
         "type": "Polygon",
@@ -25761,11 +25886,16 @@
             "confirmed": 103767,
             "recovered": 66135,
             "deaths": 8512
+          },
+          "2020-6-24": {
+            "confirmed": 104087,
+            "recovered": 66533,
+            "deaths": 8544
           }
         },
-        "current_confirmed": 103767,
-        "current_recovered": 66135,
-        "current_deaths": 8512
+        "current_confirmed": 104087,
+        "current_recovered": 66533,
+        "current_deaths": 8544
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29837,11 +29967,16 @@
             "confirmed": 31332,
             "recovered": 29000,
             "deaths": 1956
+          },
+          "2020-6-24": {
+            "confirmed": 31428,
+            "recovered": 29000,
+            "deaths": 1958
           }
         },
-        "current_confirmed": 31332,
+        "current_confirmed": 31428,
         "current_recovered": 29000,
-        "current_deaths": 1956
+        "current_deaths": 1958
       },
       "geometry": {
         "type": "Polygon",
@@ -30723,11 +30858,16 @@
             "confirmed": 250767,
             "recovered": 210570,
             "deaths": 4505
+          },
+          "2020-6-24": {
+            "confirmed": 254416,
+            "recovered": 215093,
+            "deaths": 4731
           }
         },
-        "current_confirmed": 250767,
-        "current_recovered": 210570,
-        "current_deaths": 4505
+        "current_confirmed": 254416,
+        "current_recovered": 215093,
+        "current_deaths": 4731
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31975,10 +32115,15 @@
             "confirmed": 84653,
             "recovered": 79555,
             "deaths": 4640
+          },
+          "2020-6-24": {
+            "confirmed": 84673,
+            "recovered": 79564,
+            "deaths": 4640
           }
         },
-        "current_confirmed": 84653,
-        "current_recovered": 79555,
+        "current_confirmed": 84673,
+        "current_recovered": 79564,
         "current_deaths": 4640
       },
       "geometry": {
@@ -33731,10 +33876,15 @@
             "confirmed": 7904,
             "recovered": 3182,
             "deaths": 58
+          },
+          "2020-6-24": {
+            "confirmed": 8164,
+            "recovered": 3419,
+            "deaths": 58
           }
         },
-        "current_confirmed": 7904,
-        "current_recovered": 3182,
+        "current_confirmed": 8164,
+        "current_recovered": 3419,
         "current_deaths": 58
       },
       "geometry": {
@@ -34705,10 +34855,15 @@
             "confirmed": 12270,
             "recovered": 7774,
             "deaths": 313
+          },
+          "2020-6-24": {
+            "confirmed": 12592,
+            "recovered": 10100,
+            "deaths": 313
           }
         },
-        "current_confirmed": 12270,
-        "current_recovered": 7774,
+        "current_confirmed": 12592,
+        "current_recovered": 10100,
         "current_deaths": 313
       },
       "geometry": {
@@ -35739,11 +35894,16 @@
             "confirmed": 6027,
             "recovered": 861,
             "deaths": 135
+          },
+          "2020-6-24": {
+            "confirmed": 6213,
+            "recovered": 870,
+            "deaths": 142
           }
         },
-        "current_confirmed": 6027,
-        "current_recovered": 861,
-        "current_deaths": 135
+        "current_confirmed": 6213,
+        "current_recovered": 870,
+        "current_deaths": 142
       },
       "geometry": {
         "type": "Polygon",
@@ -37017,6 +37177,11 @@
             "confirmed": 1087,
             "recovered": 456,
             "deaths": 37
+          },
+          "2020-6-24": {
+            "confirmed": 1087,
+            "recovered": 456,
+            "deaths": 37
           }
         },
         "current_confirmed": 1087,
@@ -38000,6 +38165,11 @@
             "deaths": 2426
           },
           "2020-6-23": {
+            "confirmed": 73760,
+            "recovered": 30517,
+            "deaths": 2524
+          },
+          "2020-6-24": {
             "confirmed": 73760,
             "recovered": 30517,
             "deaths": 2524
@@ -39193,10 +39363,15 @@
             "confirmed": 2368,
             "recovered": 1129,
             "deaths": 12
+          },
+          "2020-6-24": {
+            "confirmed": 2515,
+            "recovered": 1210,
+            "deaths": 12
           }
         },
-        "current_confirmed": 2368,
-        "current_recovered": 1129,
+        "current_confirmed": 2515,
+        "current_recovered": 1210,
         "current_deaths": 12
       },
       "geometry": {
@@ -40127,10 +40302,15 @@
             "confirmed": 2318,
             "recovered": 2123,
             "deaths": 85
+          },
+          "2020-6-24": {
+            "confirmed": 2319,
+            "recovered": 2130,
+            "deaths": 85
           }
         },
-        "current_confirmed": 2318,
-        "current_recovered": 2123,
+        "current_confirmed": 2319,
+        "current_recovered": 2130,
         "current_deaths": 85
       },
       "geometry": {
@@ -41085,9 +41265,14 @@
             "confirmed": 990,
             "recovered": 824,
             "deaths": 19
+          },
+          "2020-6-24": {
+            "confirmed": 991,
+            "recovered": 824,
+            "deaths": 19
           }
         },
-        "current_confirmed": 990,
+        "current_confirmed": 991,
         "current_recovered": 824,
         "current_deaths": 19
       },
@@ -41935,11 +42120,16 @@
             "confirmed": 10650,
             "recovered": 7555,
             "deaths": 339
+          },
+          "2020-6-24": {
+            "confirmed": 10780,
+            "recovered": 7592,
+            "deaths": 344
           }
         },
-        "current_confirmed": 10650,
-        "current_recovered": 7555,
-        "current_deaths": 339
+        "current_confirmed": 10780,
+        "current_recovered": 7592,
+        "current_deaths": 344
       },
       "geometry": {
         "type": "Polygon",
@@ -42865,11 +43055,16 @@
             "confirmed": 192480,
             "recovered": 175825,
             "deaths": 8914
+          },
+          "2020-6-24": {
+            "confirmed": 193291,
+            "recovered": 176662,
+            "deaths": 8936
           }
         },
-        "current_confirmed": 192480,
-        "current_recovered": 175825,
-        "current_deaths": 8914
+        "current_confirmed": 193291,
+        "current_recovered": 176662,
+        "current_deaths": 8936
       },
       "geometry": {
         "type": "Polygon",
@@ -43887,11 +44082,16 @@
             "confirmed": 4617,
             "recovered": 3989,
             "deaths": 49
+          },
+          "2020-6-24": {
+            "confirmed": 4630,
+            "recovered": 4182,
+            "deaths": 52
           }
         },
-        "current_confirmed": 4617,
-        "current_recovered": 3989,
-        "current_deaths": 49
+        "current_confirmed": 4630,
+        "current_recovered": 4182,
+        "current_deaths": 52
       },
       "geometry": {
         "type": "Polygon",
@@ -44737,10 +44937,15 @@
             "confirmed": 12761,
             "recovered": 11593,
             "deaths": 603
+          },
+          "2020-6-24": {
+            "confirmed": 12815,
+            "recovered": 11622,
+            "deaths": 603
           }
         },
-        "current_confirmed": 12761,
-        "current_recovered": 11593,
+        "current_confirmed": 12815,
+        "current_recovered": 11622,
         "current_deaths": 603
       },
       "geometry": {
@@ -45626,6 +45831,11 @@
             "deaths": 0
           },
           "2020-6-23": {
+            "confirmed": 18,
+            "recovered": 18,
+            "deaths": 0
+          },
+          "2020-6-24": {
             "confirmed": 18,
             "recovered": 18,
             "deaths": 0
@@ -46523,11 +46733,16 @@
             "confirmed": 12076,
             "recovered": 8674,
             "deaths": 861
+          },
+          "2020-6-24": {
+            "confirmed": 12248,
+            "recovered": 8792,
+            "deaths": 869
           }
         },
-        "current_confirmed": 12076,
-        "current_recovered": 8674,
-        "current_deaths": 861
+        "current_confirmed": 12248,
+        "current_recovered": 8792,
+        "current_deaths": 869
       },
       "geometry": {
         "type": "Polygon",
@@ -47561,6 +47776,11 @@
             "confirmed": 51643,
             "recovered": 24991,
             "deaths": 4274
+          },
+          "2020-6-24": {
+            "confirmed": 51643,
+            "recovered": 24991,
+            "deaths": 4274
           }
         },
         "current_confirmed": 51643,
@@ -48483,11 +48703,16 @@
             "confirmed": 58141,
             "recovered": 15535,
             "deaths": 2365
+          },
+          "2020-6-24": {
+            "confirmed": 59561,
+            "recovered": 15935,
+            "deaths": 2450
           }
         },
-        "current_confirmed": 58141,
-        "current_recovered": 15535,
-        "current_deaths": 2365
+        "current_confirmed": 59561,
+        "current_recovered": 15935,
+        "current_deaths": 2450
       },
       "geometry": {
         "type": "Polygon",
@@ -49441,9 +49666,14 @@
             "confirmed": 143,
             "recovered": 39,
             "deaths": 0
+          },
+          "2020-6-24": {
+            "confirmed": 144,
+            "recovered": 39,
+            "deaths": 0
           }
         },
-        "current_confirmed": 143,
+        "current_confirmed": 144,
         "current_recovered": 39,
         "current_deaths": 0
       },
@@ -50343,11 +50573,16 @@
             "confirmed": 246752,
             "recovered": 150376,
             "deaths": 28325
+          },
+          "2020-6-24": {
+            "confirmed": 247086,
+            "recovered": 150376,
+            "deaths": 28327
           }
         },
-        "current_confirmed": 246752,
+        "current_confirmed": 247086,
         "current_recovered": 150376,
-        "current_deaths": 28325
+        "current_deaths": 28327
       },
       "geometry": {
         "type": "Polygon",
@@ -51337,10 +51572,15 @@
             "confirmed": 1982,
             "recovered": 1771,
             "deaths": 69
+          },
+          "2020-6-24": {
+            "confirmed": 1984,
+            "recovered": 1790,
+            "deaths": 69
           }
         },
-        "current_confirmed": 1982,
-        "current_recovered": 1771,
+        "current_confirmed": 1984,
+        "current_recovered": 1790,
         "current_deaths": 69
       },
       "geometry": {
@@ -52195,11 +52435,16 @@
             "confirmed": 4848,
             "recovered": 1412,
             "deaths": 75
+          },
+          "2020-6-24": {
+            "confirmed": 5034,
+            "recovered": 1486,
+            "deaths": 78
           }
         },
-        "current_confirmed": 4848,
-        "current_recovered": 1412,
-        "current_deaths": 75
+        "current_confirmed": 5034,
+        "current_recovered": 1486,
+        "current_deaths": 78
       },
       "geometry": {
         "type": "Polygon",
@@ -53221,10 +53466,15 @@
             "confirmed": 7155,
             "recovered": 6400,
             "deaths": 327
+          },
+          "2020-6-24": {
+            "confirmed": 7172,
+            "recovered": 6600,
+            "deaths": 327
           }
         },
-        "current_confirmed": 7155,
-        "current_recovered": 6400,
+        "current_confirmed": 7172,
+        "current_recovered": 6600,
         "current_deaths": 327
       },
       "geometry": {
@@ -54163,6 +54413,11 @@
             "confirmed": 18,
             "recovered": 18,
             "deaths": 0
+          },
+          "2020-6-24": {
+            "confirmed": 18,
+            "recovered": 18,
+            "deaths": 0
           }
         },
         "current_confirmed": 18,
@@ -55051,11 +55306,16 @@
             "confirmed": 197804,
             "recovered": 74995,
             "deaths": 29723
+          },
+          "2020-6-24": {
+            "confirmed": 197885,
+            "recovered": 75251,
+            "deaths": 29734
           }
         },
-        "current_confirmed": 197804,
-        "current_recovered": 74995,
-        "current_deaths": 29723
+        "current_confirmed": 197885,
+        "current_recovered": 75251,
+        "current_deaths": 29734
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56067,10 +56327,15 @@
             "confirmed": 4849,
             "recovered": 2107,
             "deaths": 39
+          },
+          "2020-6-24": {
+            "confirmed": 4956,
+            "recovered": 2177,
+            "deaths": 39
           }
         },
-        "current_confirmed": 4849,
-        "current_recovered": 2107,
+        "current_confirmed": 4956,
+        "current_recovered": 2177,
         "current_deaths": 39
       },
       "geometry": {
@@ -56981,11 +57246,16 @@
             "confirmed": 307682,
             "recovered": 1330,
             "deaths": 43011
+          },
+          "2020-6-24": {
+            "confirmed": 308337,
+            "recovered": 1345,
+            "deaths": 43165
           }
         },
-        "current_confirmed": 307682,
-        "current_recovered": 1330,
-        "current_deaths": 43011
+        "current_confirmed": 308337,
+        "current_recovered": 1345,
+        "current_deaths": 43165
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58001,10 +58271,15 @@
             "confirmed": 911,
             "recovered": 768,
             "deaths": 14
+          },
+          "2020-6-24": {
+            "confirmed": 917,
+            "recovered": 776,
+            "deaths": 14
           }
         },
-        "current_confirmed": 911,
-        "current_recovered": 768,
+        "current_confirmed": 917,
+        "current_recovered": 776,
         "current_deaths": 14
       },
       "geometry": {
@@ -58887,10 +59162,15 @@
             "confirmed": 14568,
             "recovered": 10907,
             "deaths": 95
+          },
+          "2020-6-24": {
+            "confirmed": 15013,
+            "recovered": 11078,
+            "deaths": 95
           }
         },
-        "current_confirmed": 14568,
-        "current_recovered": 10907,
+        "current_confirmed": 15013,
+        "current_recovered": 11078,
         "current_deaths": 95
       },
       "geometry": {
@@ -59777,11 +60057,16 @@
             "confirmed": 5040,
             "recovered": 3685,
             "deaths": 28
+          },
+          "2020-6-24": {
+            "confirmed": 5174,
+            "recovered": 3861,
+            "deaths": 29
           }
         },
-        "current_confirmed": 5040,
-        "current_recovered": 3685,
-        "current_deaths": 28
+        "current_confirmed": 5174,
+        "current_recovered": 3861,
+        "current_deaths": 29
       },
       "geometry": {
         "type": "Polygon",
@@ -60847,6 +61132,11 @@
             "confirmed": 42,
             "recovered": 26,
             "deaths": 2
+          },
+          "2020-6-24": {
+            "confirmed": 42,
+            "recovered": 26,
+            "deaths": 2
           }
         },
         "current_confirmed": 42,
@@ -61701,6 +61991,11 @@
             "confirmed": 1664,
             "recovered": 515,
             "deaths": 32
+          },
+          "2020-6-24": {
+            "confirmed": 1664,
+            "recovered": 515,
+            "deaths": 32
           }
         },
         "current_confirmed": 1664,
@@ -62519,9 +62814,14 @@
             "confirmed": 3302,
             "recovered": 1374,
             "deaths": 190
+          },
+          "2020-6-24": {
+            "confirmed": 3310,
+            "recovered": 1374,
+            "deaths": 190
           }
         },
-        "current_confirmed": 3302,
+        "current_confirmed": 3310,
         "current_recovered": 1374,
         "current_deaths": 190
       },
@@ -63531,11 +63831,16 @@
             "confirmed": 14540,
             "recovered": 2897,
             "deaths": 582
+          },
+          "2020-6-24": {
+            "confirmed": 14819,
+            "recovered": 2930,
+            "deaths": 601
           }
         },
-        "current_confirmed": 14540,
-        "current_recovered": 2897,
-        "current_deaths": 582
+        "current_confirmed": 14819,
+        "current_recovered": 2930,
+        "current_deaths": 601
       },
       "geometry": {
         "type": "Polygon",
@@ -64461,9 +64766,14 @@
             "confirmed": 206,
             "recovered": 107,
             "deaths": 12
+          },
+          "2020-6-24": {
+            "confirmed": 209,
+            "recovered": 107,
+            "deaths": 12
           }
         },
-        "current_confirmed": 206,
+        "current_confirmed": 209,
         "current_recovered": 107,
         "current_deaths": 12
       },
@@ -65411,11 +65721,16 @@
             "confirmed": 13943,
             "recovered": 1461,
             "deaths": 405
+          },
+          "2020-6-24": {
+            "confirmed": 14571,
+            "recovered": 1546,
+            "deaths": 417
           }
         },
-        "current_confirmed": 13943,
-        "current_recovered": 1461,
-        "current_deaths": 405
+        "current_confirmed": 14571,
+        "current_recovered": 1546,
+        "current_deaths": 417
       },
       "geometry": {
         "type": "Polygon",
@@ -66429,10 +66744,15 @@
             "confirmed": 2366,
             "recovered": 2142,
             "deaths": 107
+          },
+          "2020-6-24": {
+            "confirmed": 2388,
+            "recovered": 2145,
+            "deaths": 107
           }
         },
-        "current_confirmed": 2366,
-        "current_recovered": 2142,
+        "current_confirmed": 2388,
+        "current_recovered": 2145,
         "current_deaths": 107
       },
       "geometry": {
@@ -67387,11 +67707,16 @@
             "confirmed": 5324,
             "recovered": 436,
             "deaths": 89
+          },
+          "2020-6-24": {
+            "confirmed": 5429,
+            "recovered": 512,
+            "deaths": 92
           }
         },
-        "current_confirmed": 5324,
-        "current_recovered": 436,
-        "current_deaths": 89
+        "current_confirmed": 5429,
+        "current_recovered": 512,
+        "current_deaths": 92
       },
       "geometry": {
         "type": "Polygon",
@@ -68261,11 +68586,16 @@
             "confirmed": 4107,
             "recovered": 2600,
             "deaths": 573
+          },
+          "2020-6-24": {
+            "confirmed": 4123,
+            "recovered": 2640,
+            "deaths": 577
           }
         },
-        "current_confirmed": 4107,
-        "current_recovered": 2600,
-        "current_deaths": 573
+        "current_confirmed": 4123,
+        "current_recovered": 2640,
+        "current_deaths": 577
       },
       "geometry": {
         "type": "Polygon",
@@ -69175,11 +69505,16 @@
             "confirmed": 47896,
             "recovered": 19241,
             "deaths": 2535
+          },
+          "2020-6-24": {
+            "confirmed": 50187,
+            "recovered": 20449,
+            "deaths": 2620
           }
         },
-        "current_confirmed": 47896,
-        "current_recovered": 19241,
-        "current_deaths": 2535
+        "current_confirmed": 50187,
+        "current_recovered": 20449,
+        "current_deaths": 2620
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71015,11 +71350,16 @@
             "confirmed": 456183,
             "recovered": 258685,
             "deaths": 14476
+          },
+          "2020-6-24": {
+            "confirmed": 473105,
+            "recovered": 271697,
+            "deaths": 14894
           }
         },
-        "current_confirmed": 456183,
-        "current_recovered": 258685,
-        "current_deaths": 14476
+        "current_confirmed": 473105,
+        "current_recovered": 271697,
+        "current_deaths": 14894
       },
       "geometry": {
         "type": "Polygon",
@@ -72349,11 +72689,16 @@
             "confirmed": 25391,
             "recovered": 22698,
             "deaths": 1720
+          },
+          "2020-6-24": {
+            "confirmed": 25396,
+            "recovered": 23364,
+            "deaths": 1726
           }
         },
-        "current_confirmed": 25391,
-        "current_recovered": 22698,
-        "current_deaths": 1720
+        "current_confirmed": 25396,
+        "current_recovered": 23364,
+        "current_deaths": 1726
       },
       "geometry": {
         "type": "Polygon",
@@ -73191,11 +73536,16 @@
             "confirmed": 209970,
             "recovered": 169160,
             "deaths": 9863
+          },
+          "2020-6-24": {
+            "confirmed": 215096,
+            "recovered": 175103,
+            "deaths": 10130
           }
         },
-        "current_confirmed": 209970,
-        "current_recovered": 169160,
-        "current_deaths": 9863
+        "current_confirmed": 215096,
+        "current_recovered": 175103,
+        "current_deaths": 10130
       },
       "geometry": {
         "type": "Polygon",
@@ -74281,11 +74631,16 @@
             "confirmed": 34502,
             "recovered": 15753,
             "deaths": 1251
+          },
+          "2020-6-24": {
+            "confirmed": 36702,
+            "recovered": 16814,
+            "deaths": 1330
           }
         },
-        "current_confirmed": 34502,
-        "current_recovered": 15753,
-        "current_deaths": 1251
+        "current_confirmed": 36702,
+        "current_recovered": 16814,
+        "current_deaths": 1330
       },
       "geometry": {
         "type": "Polygon",
@@ -75191,6 +75546,11 @@
             "confirmed": 1824,
             "recovered": 1806,
             "deaths": 10
+          },
+          "2020-6-24": {
+            "confirmed": 1824,
+            "recovered": 1806,
+            "deaths": 10
           }
         },
         "current_confirmed": 1824,
@@ -76061,10 +76421,15 @@
             "confirmed": 21512,
             "recovered": 15869,
             "deaths": 308
+          },
+          "2020-6-24": {
+            "confirmed": 22139,
+            "recovered": 15961,
+            "deaths": 308
           }
         },
-        "current_confirmed": 21512,
-        "current_recovered": 15869,
+        "current_confirmed": 22139,
+        "current_recovered": 15961,
         "current_deaths": 308
       },
       "geometry": {
@@ -76943,11 +77308,16 @@
             "confirmed": 238833,
             "recovered": 184585,
             "deaths": 34675
+          },
+          "2020-6-24": {
+            "confirmed": 239410,
+            "recovered": 186111,
+            "deaths": 34644
           }
         },
-        "current_confirmed": 238833,
-        "current_recovered": 184585,
-        "current_deaths": 34675
+        "current_confirmed": 239410,
+        "current_recovered": 186111,
+        "current_deaths": 34644
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78091,10 +78461,15 @@
             "confirmed": 670,
             "recovered": 518,
             "deaths": 10
+          },
+          "2020-6-24": {
+            "confirmed": 678,
+            "recovered": 521,
+            "deaths": 10
           }
         },
-        "current_confirmed": 670,
-        "current_recovered": 518,
+        "current_confirmed": 678,
+        "current_recovered": 521,
         "current_deaths": 10
       },
       "geometry": {
@@ -78925,10 +79300,15 @@
             "confirmed": 1047,
             "recovered": 772,
             "deaths": 9
+          },
+          "2020-6-24": {
+            "confirmed": 1071,
+            "recovered": 782,
+            "deaths": 9
           }
         },
-        "current_confirmed": 1047,
-        "current_recovered": 772,
+        "current_confirmed": 1071,
+        "current_recovered": 782,
         "current_deaths": 9
       },
       "geometry": {
@@ -79791,11 +80171,16 @@
             "confirmed": 17879,
             "recovered": 16096,
             "deaths": 965
+          },
+          "2020-6-24": {
+            "confirmed": 18013,
+            "recovered": 16133,
+            "deaths": 967
           }
         },
-        "current_confirmed": 17879,
-        "current_recovered": 16096,
-        "current_deaths": 965
+        "current_confirmed": 18013,
+        "current_recovered": 16133,
+        "current_deaths": 967
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80851,11 +81236,16 @@
             "confirmed": 18765,
             "recovered": 11514,
             "deaths": 134
+          },
+          "2020-6-24": {
+            "confirmed": 19285,
+            "recovered": 11882,
+            "deaths": 136
           }
         },
-        "current_confirmed": 18765,
-        "current_recovered": 11514,
-        "current_deaths": 134
+        "current_confirmed": 19285,
+        "current_recovered": 11882,
+        "current_deaths": 136
       },
       "geometry": {
         "type": "Polygon",
@@ -82089,11 +82479,16 @@
             "confirmed": 4952,
             "recovered": 1782,
             "deaths": 128
+          },
+          "2020-6-24": {
+            "confirmed": 5206,
+            "recovered": 1823,
+            "deaths": 130
           }
         },
-        "current_confirmed": 4952,
-        "current_recovered": 1782,
-        "current_deaths": 128
+        "current_confirmed": 5206,
+        "current_recovered": 1823,
+        "current_deaths": 130
       },
       "geometry": {
         "type": "Polygon",
@@ -83027,11 +83422,16 @@
             "confirmed": 3726,
             "recovered": 2082,
             "deaths": 42
+          },
+          "2020-6-24": {
+            "confirmed": 3954,
+            "recovered": 2112,
+            "deaths": 43
           }
         },
-        "current_confirmed": 3726,
-        "current_recovered": 2082,
-        "current_deaths": 42
+        "current_confirmed": 3954,
+        "current_recovered": 2112,
+        "current_deaths": 43
       },
       "geometry": {
         "type": "Polygon",
@@ -83957,6 +84357,11 @@
             "confirmed": 130,
             "recovered": 127,
             "deaths": 0
+          },
+          "2020-6-24": {
+            "confirmed": 130,
+            "recovered": 127,
+            "deaths": 0
           }
         },
         "current_confirmed": 130,
@@ -84815,11 +85220,16 @@
             "confirmed": 12535,
             "recovered": 10930,
             "deaths": 281
+          },
+          "2020-6-24": {
+            "confirmed": 12563,
+            "recovered": 10974,
+            "deaths": 282
           }
         },
-        "current_confirmed": 12535,
-        "current_recovered": 10930,
-        "current_deaths": 281
+        "current_confirmed": 12563,
+        "current_recovered": 10974,
+        "current_deaths": 282
       },
       "geometry": {
         "type": "Polygon",
@@ -85678,6 +86088,11 @@
             "deaths": 37
           },
           "2020-6-23": {
+            "confirmed": 2169,
+            "recovered": 1047,
+            "deaths": 37
+          },
+          "2020-6-24": {
             "confirmed": 2169,
             "recovered": 1047,
             "deaths": 37
@@ -86555,11 +86970,16 @@
             "confirmed": 41033,
             "recovered": 32304,
             "deaths": 334
+          },
+          "2020-6-24": {
+            "confirmed": 41879,
+            "recovered": 32809,
+            "deaths": 337
           }
         },
-        "current_confirmed": 41033,
-        "current_recovered": 32304,
-        "current_deaths": 334
+        "current_confirmed": 41879,
+        "current_recovered": 32809,
+        "current_deaths": 337
       },
       "geometry": {
         "type": "Polygon",
@@ -87378,6 +87798,11 @@
             "deaths": 0
           },
           "2020-6-23": {
+            "confirmed": 19,
+            "recovered": 19,
+            "deaths": 0
+          },
+          "2020-6-24": {
             "confirmed": 19,
             "recovered": 19,
             "deaths": 0
@@ -88319,11 +88744,16 @@
             "confirmed": 1622,
             "recovered": 1098,
             "deaths": 32
+          },
+          "2020-6-24": {
+            "confirmed": 1644,
+            "recovered": 1103,
+            "deaths": 33
           }
         },
-        "current_confirmed": 1622,
-        "current_recovered": 1098,
-        "current_deaths": 32
+        "current_confirmed": 1644,
+        "current_recovered": 1103,
+        "current_deaths": 33
       },
       "geometry": {
         "type": "Polygon",
@@ -89153,9 +89583,14 @@
             "confirmed": 652,
             "recovered": 270,
             "deaths": 34
+          },
+          "2020-6-24": {
+            "confirmed": 662,
+            "recovered": 270,
+            "deaths": 34
           }
         },
-        "current_confirmed": 652,
+        "current_confirmed": 662,
         "current_recovered": 270,
         "current_deaths": 34
       },
@@ -90051,11 +90486,16 @@
             "confirmed": 639,
             "recovered": 132,
             "deaths": 17
+          },
+          "2020-6-24": {
+            "confirmed": 670,
+            "recovered": 138,
+            "deaths": 18
           }
         },
-        "current_confirmed": 639,
-        "current_recovered": 132,
-        "current_deaths": 17
+        "current_confirmed": 670,
+        "current_recovered": 138,
+        "current_deaths": 18
       },
       "geometry": {
         "type": "Polygon",
@@ -91065,10 +91505,15 @@
             "confirmed": 1991,
             "recovered": 1548,
             "deaths": 11
+          },
+          "2020-6-24": {
+            "confirmed": 2007,
+            "recovered": 1602,
+            "deaths": 11
           }
         },
-        "current_confirmed": 1991,
-        "current_recovered": 1548,
+        "current_confirmed": 2007,
+        "current_recovered": 1602,
         "current_deaths": 11
       },
       "geometry": {
@@ -91892,6 +92337,11 @@
             "deaths": 0
           },
           "2020-6-23": {
+            "confirmed": 17,
+            "recovered": 2,
+            "deaths": 0
+          },
+          "2020-6-24": {
             "confirmed": 17,
             "recovered": 2,
             "deaths": 0
@@ -92733,11 +93183,16 @@
             "confirmed": 1803,
             "recovered": 1483,
             "deaths": 77
+          },
+          "2020-6-24": {
+            "confirmed": 1806,
+            "recovered": 1494,
+            "deaths": 78
           }
         },
-        "current_confirmed": 1803,
-        "current_recovered": 1483,
-        "current_deaths": 77
+        "current_confirmed": 1806,
+        "current_recovered": 1494,
+        "current_deaths": 78
       },
       "geometry": {
         "type": "Polygon",
@@ -93599,10 +94054,15 @@
             "confirmed": 4133,
             "recovered": 3959,
             "deaths": 110
+          },
+          "2020-6-24": {
+            "confirmed": 4140,
+            "recovered": 3965,
+            "deaths": 110
           }
         },
-        "current_confirmed": 4133,
-        "current_recovered": 3959,
+        "current_confirmed": 4140,
+        "current_recovered": 3965,
         "current_deaths": 110
       },
       "geometry": {
@@ -94414,6 +94874,11 @@
             "deaths": 30
           },
           "2020-6-23": {
+            "confirmed": 1111,
+            "recovered": 903,
+            "deaths": 30
+          },
+          "2020-6-24": {
             "confirmed": 1111,
             "recovered": 903,
             "deaths": 30
@@ -95295,11 +95760,16 @@
             "confirmed": 10344,
             "recovered": 8407,
             "deaths": 214
+          },
+          "2020-6-24": {
+            "confirmed": 11279,
+            "recovered": 8488,
+            "deaths": 216
           }
         },
-        "current_confirmed": 10344,
-        "current_recovered": 8407,
-        "current_deaths": 214
+        "current_confirmed": 11279,
+        "current_recovered": 8488,
+        "current_deaths": 216
       },
       "geometry": {
         "type": "Polygon",
@@ -96341,11 +96811,16 @@
             "confirmed": 14714,
             "recovered": 8212,
             "deaths": 490
+          },
+          "2020-6-24": {
+            "confirmed": 15078,
+            "recovered": 8599,
+            "deaths": 502
           }
         },
-        "current_confirmed": 14714,
-        "current_recovered": 8212,
-        "current_deaths": 490
+        "current_confirmed": 15078,
+        "current_recovered": 8599,
+        "current_deaths": 502
       },
       "geometry": {
         "type": "Polygon",
@@ -97239,11 +97714,16 @@
             "confirmed": 1724,
             "recovered": 732,
             "deaths": 15
+          },
+          "2020-6-24": {
+            "confirmed": 1829,
+            "recovered": 823,
+            "deaths": 16
           }
         },
-        "current_confirmed": 1724,
-        "current_recovered": 732,
-        "current_deaths": 15
+        "current_confirmed": 1829,
+        "current_recovered": 823,
+        "current_deaths": 16
       },
       "geometry": {
         "type": "Polygon",
@@ -98225,11 +98705,16 @@
             "confirmed": 191410,
             "recovered": 143646,
             "deaths": 23377
+          },
+          "2020-6-24": {
+            "confirmed": 196847,
+            "recovered": 148487,
+            "deaths": 24324
           }
         },
-        "current_confirmed": 191410,
-        "current_recovered": 143646,
-        "current_deaths": 23377
+        "current_confirmed": 196847,
+        "current_recovered": 148487,
+        "current_deaths": 24324
       },
       "geometry": {
         "type": "Polygon",
@@ -99695,11 +100180,16 @@
             "confirmed": 5311,
             "recovered": 2048,
             "deaths": 251
+          },
+          "2020-6-24": {
+            "confirmed": 5445,
+            "recovered": 2091,
+            "deaths": 259
           }
         },
-        "current_confirmed": 5311,
-        "current_recovered": 2048,
-        "current_deaths": 251
+        "current_confirmed": 5445,
+        "current_recovered": 2091,
+        "current_deaths": 259
       },
       "geometry": {
         "type": "Polygon",
@@ -100553,11 +101043,16 @@
             "confirmed": 1978,
             "recovered": 1302,
             "deaths": 111
+          },
+          "2020-6-24": {
+            "confirmed": 2005,
+            "recovered": 1354,
+            "deaths": 112
           }
         },
-        "current_confirmed": 1978,
-        "current_recovered": 1302,
-        "current_deaths": 111
+        "current_confirmed": 2005,
+        "current_recovered": 1354,
+        "current_deaths": 112
       },
       "geometry": {
         "type": "Polygon",
@@ -101647,10 +102142,15 @@
             "confirmed": 665,
             "recovered": 618,
             "deaths": 9
+          },
+          "2020-6-24": {
+            "confirmed": 668,
+            "recovered": 627,
+            "deaths": 9
           }
         },
-        "current_confirmed": 665,
-        "current_recovered": 618,
+        "current_confirmed": 668,
+        "current_recovered": 627,
         "current_deaths": 9
       },
       "geometry": {
@@ -102507,9 +103007,14 @@
             "confirmed": 378,
             "recovered": 315,
             "deaths": 9
+          },
+          "2020-6-24": {
+            "confirmed": 389,
+            "recovered": 315,
+            "deaths": 9
           }
         },
-        "current_confirmed": 378,
+        "current_confirmed": 389,
         "current_recovered": 315,
         "current_deaths": 9
       },
@@ -103369,10 +103874,15 @@
             "confirmed": 215,
             "recovered": 168,
             "deaths": 0
+          },
+          "2020-6-24": {
+            "confirmed": 216,
+            "recovered": 169,
+            "deaths": 0
           }
         },
-        "current_confirmed": 215,
-        "current_recovered": 168,
+        "current_confirmed": 216,
+        "current_recovered": 169,
         "current_deaths": 0
       },
       "geometry": {
@@ -104459,10 +104969,15 @@
             "confirmed": 757,
             "recovered": 206,
             "deaths": 5
+          },
+          "2020-6-24": {
+            "confirmed": 762,
+            "recovered": 220,
+            "deaths": 5
           }
         },
-        "current_confirmed": 757,
-        "current_recovered": 206,
+        "current_confirmed": 762,
+        "current_recovered": 220,
         "current_deaths": 5
       },
       "geometry": {
@@ -105557,11 +106072,16 @@
             "confirmed": 3292,
             "recovered": 963,
             "deaths": 114
+          },
+          "2020-6-24": {
+            "confirmed": 3519,
+            "recovered": 1074,
+            "deaths": 116
           }
         },
-        "current_confirmed": 3292,
-        "current_recovered": 963,
-        "current_deaths": 114
+        "current_confirmed": 3519,
+        "current_recovered": 1074,
+        "current_deaths": 116
       },
       "geometry": {
         "type": "Polygon",
@@ -106503,10 +107023,15 @@
             "confirmed": 803,
             "recovered": 258,
             "deaths": 11
+          },
+          "2020-6-24": {
+            "confirmed": 941,
+            "recovered": 259,
+            "deaths": 11
           }
         },
-        "current_confirmed": 803,
-        "current_recovered": 258,
+        "current_confirmed": 941,
+        "current_recovered": 259,
         "current_deaths": 11
       },
       "geometry": {
@@ -107405,10 +107930,15 @@
             "confirmed": 8590,
             "recovered": 8186,
             "deaths": 121
+          },
+          "2020-6-24": {
+            "confirmed": 8600,
+            "recovered": 8271,
+            "deaths": 121
           }
         },
-        "current_confirmed": 8590,
-        "current_recovered": 8186,
+        "current_confirmed": 8600,
+        "current_recovered": 8271,
         "current_deaths": 121
       },
       "geometry": {
@@ -108449,9 +108979,14 @@
             "confirmed": 72,
             "recovered": 21,
             "deaths": 0
+          },
+          "2020-6-24": {
+            "confirmed": 90,
+            "recovered": 21,
+            "deaths": 0
           }
         },
-        "current_confirmed": 72,
+        "current_confirmed": 90,
         "current_recovered": 21,
         "current_deaths": 0
       },
@@ -109412,6 +109947,11 @@
             "deaths": 67
           },
           "2020-6-23": {
+            "confirmed": 1051,
+            "recovered": 913,
+            "deaths": 67
+          },
+          "2020-6-24": {
             "confirmed": 1051,
             "recovered": 913,
             "deaths": 67
@@ -110437,11 +110977,16 @@
             "confirmed": 21371,
             "recovered": 7338,
             "deaths": 533
+          },
+          "2020-6-24": {
+            "confirmed": 22020,
+            "recovered": 7613,
+            "deaths": 542
           }
         },
-        "current_confirmed": 21371,
-        "current_recovered": 7338,
-        "current_deaths": 533
+        "current_confirmed": 22020,
+        "current_recovered": 7613,
+        "current_deaths": 542
       },
       "geometry": {
         "type": "Polygon",
@@ -111459,6 +112004,11 @@
             "confirmed": 2170,
             "recovered": 1238,
             "deaths": 74
+          },
+          "2020-6-24": {
+            "confirmed": 2170,
+            "recovered": 1238,
+            "deaths": 74
           }
         },
         "current_confirmed": 2170,
@@ -112457,11 +113007,16 @@
             "confirmed": 49930,
             "recovered": 186,
             "deaths": 6114
+          },
+          "2020-6-24": {
+            "confirmed": 50012,
+            "recovered": 186,
+            "deaths": 6116
           }
         },
-        "current_confirmed": 49930,
+        "current_confirmed": 50012,
         "current_recovered": 186,
-        "current_deaths": 6114
+        "current_deaths": 6116
       },
       "geometry": {
         "type": "Polygon",
@@ -113303,11 +113858,16 @@
             "confirmed": 8772,
             "recovered": 8138,
             "deaths": 248
+          },
+          "2020-6-24": {
+            "confirmed": 8788,
+            "recovered": 8138,
+            "deaths": 249
           }
         },
-        "current_confirmed": 8772,
+        "current_confirmed": 8788,
         "current_recovered": 8138,
-        "current_deaths": 248
+        "current_deaths": 249
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114459,11 +115019,16 @@
             "confirmed": 10099,
             "recovered": 2224,
             "deaths": 24
+          },
+          "2020-6-24": {
+            "confirmed": 11162,
+            "recovered": 2650,
+            "deaths": 26
           }
         },
-        "current_confirmed": 10099,
-        "current_recovered": 2224,
-        "current_deaths": 24
+        "current_confirmed": 11162,
+        "current_recovered": 2650,
+        "current_deaths": 26
       },
       "geometry": {
         "type": "Polygon",
@@ -115341,10 +115906,15 @@
             "confirmed": 1516,
             "recovered": 1483,
             "deaths": 22
+          },
+          "2020-6-24": {
+            "confirmed": 1519,
+            "recovered": 1484,
+            "deaths": 22
           }
         },
-        "current_confirmed": 1516,
-        "current_recovered": 1483,
+        "current_confirmed": 1519,
+        "current_recovered": 1484,
         "current_deaths": 22
       },
       "geometry": {
@@ -116401,11 +116971,16 @@
             "confirmed": 32394,
             "recovered": 17279,
             "deaths": 140
+          },
+          "2020-6-24": {
+            "confirmed": 34902,
+            "recovered": 18520,
+            "deaths": 144
           }
         },
-        "current_confirmed": 32394,
-        "current_recovered": 17279,
-        "current_deaths": 140
+        "current_confirmed": 34902,
+        "current_recovered": 18520,
+        "current_deaths": 144
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117385,11 +117960,16 @@
             "confirmed": 188926,
             "recovered": 77754,
             "deaths": 3755
+          },
+          "2020-6-24": {
+            "confirmed": 192970,
+            "recovered": 81307,
+            "deaths": 3903
           }
         },
-        "current_confirmed": 188926,
-        "current_recovered": 77754,
-        "current_deaths": 3755
+        "current_confirmed": 192970,
+        "current_recovered": 81307,
+        "current_deaths": 3903
       },
       "geometry": {
         "type": "Polygon",
@@ -118439,11 +119019,16 @@
             "confirmed": 27314,
             "recovered": 14694,
             "deaths": 536
+          },
+          "2020-6-24": {
+            "confirmed": 28030,
+            "recovered": 14794,
+            "deaths": 547
           }
         },
-        "current_confirmed": 27314,
-        "current_recovered": 14694,
-        "current_deaths": 536
+        "current_confirmed": 28030,
+        "current_recovered": 14794,
+        "current_deaths": 547
       },
       "geometry": {
         "type": "Polygon",
@@ -119437,11 +120022,16 @@
             "confirmed": 260810,
             "recovered": 148437,
             "deaths": 8404
+          },
+          "2020-6-24": {
+            "confirmed": 264689,
+            "recovered": 151589,
+            "deaths": 8586
           }
         },
-        "current_confirmed": 260810,
-        "current_recovered": 148437,
-        "current_deaths": 8404
+        "current_confirmed": 264689,
+        "current_recovered": 151589,
+        "current_deaths": 8586
       },
       "geometry": {
         "type": "Polygon",
@@ -120531,11 +121121,16 @@
             "confirmed": 31825,
             "recovered": 8442,
             "deaths": 1186
+          },
+          "2020-6-24": {
+            "confirmed": 33069,
+            "recovered": 8910,
+            "deaths": 1212
           }
         },
-        "current_confirmed": 31825,
-        "current_recovered": 8442,
-        "current_deaths": 1186
+        "current_confirmed": 33069,
+        "current_recovered": 8910,
+        "current_deaths": 1212
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -121787,9 +122382,14 @@
             "confirmed": 9,
             "recovered": 8,
             "deaths": 0
+          },
+          "2020-6-24": {
+            "confirmed": 10,
+            "recovered": 8,
+            "deaths": 0
           }
         },
-        "current_confirmed": 9,
+        "current_confirmed": 10,
         "current_recovered": 8,
         "current_deaths": 0
       },
@@ -122915,11 +123515,16 @@
             "confirmed": 32527,
             "recovered": 17573,
             "deaths": 1375
+          },
+          "2020-6-24": {
+            "confirmed": 33119,
+            "recovered": 18654,
+            "deaths": 1412
           }
         },
-        "current_confirmed": 32527,
-        "current_recovered": 17573,
-        "current_deaths": 1375
+        "current_confirmed": 33119,
+        "current_recovered": 18654,
+        "current_deaths": 1412
       },
       "geometry": {
         "type": "Polygon",
@@ -123885,11 +124490,16 @@
             "confirmed": 39737,
             "recovered": 25829,
             "deaths": 1540
+          },
+          "2020-6-24": {
+            "confirmed": 40104,
+            "recovered": 26083,
+            "deaths": 1543
           }
         },
-        "current_confirmed": 39737,
-        "current_recovered": 25829,
-        "current_deaths": 1540
+        "current_confirmed": 40104,
+        "current_recovered": 26083,
+        "current_deaths": 1543
       },
       "geometry": {
         "type": "Polygon",
@@ -124807,10 +125417,15 @@
             "confirmed": 1422,
             "recovered": 926,
             "deaths": 13
+          },
+          "2020-6-24": {
+            "confirmed": 1528,
+            "recovered": 944,
+            "deaths": 13
           }
         },
-        "current_confirmed": 1422,
-        "current_recovered": 926,
+        "current_confirmed": 1528,
+        "current_recovered": 944,
         "current_deaths": 13
       },
       "geometry": {
@@ -125729,11 +126344,16 @@
             "confirmed": 89579,
             "recovered": 71501,
             "deaths": 99
+          },
+          "2020-6-24": {
+            "confirmed": 90778,
+            "recovered": 73083,
+            "deaths": 104
           }
         },
-        "current_confirmed": 89579,
-        "current_recovered": 71501,
-        "current_deaths": 99
+        "current_confirmed": 90778,
+        "current_recovered": 73083,
+        "current_deaths": 104
       },
       "geometry": {
         "type": "Polygon",
@@ -126555,11 +127175,16 @@
             "confirmed": 24505,
             "recovered": 17187,
             "deaths": 1539
+          },
+          "2020-6-24": {
+            "confirmed": 25286,
+            "recovered": 17906,
+            "deaths": 1565
           }
         },
-        "current_confirmed": 24505,
-        "current_recovered": 17187,
-        "current_deaths": 1539
+        "current_confirmed": 25286,
+        "current_recovered": 17906,
+        "current_deaths": 1565
       },
       "geometry": {
         "type": "Polygon",
@@ -127521,11 +128146,16 @@
             "confirmed": 598878,
             "recovered": 355847,
             "deaths": 8349
+          },
+          "2020-6-24": {
+            "confirmed": 613148,
+            "recovered": 374557,
+            "deaths": 8594
           }
         },
-        "current_confirmed": 598878,
-        "current_recovered": 355847,
-        "current_deaths": 8349
+        "current_confirmed": 613148,
+        "current_recovered": 374557,
+        "current_deaths": 8594
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -130753,10 +131383,15 @@
             "confirmed": 798,
             "recovered": 371,
             "deaths": 2
+          },
+          "2020-6-24": {
+            "confirmed": 830,
+            "recovered": 376,
+            "deaths": 2
           }
         },
-        "current_confirmed": 798,
-        "current_recovered": 371,
+        "current_confirmed": 830,
+        "current_recovered": 376,
         "current_deaths": 2
       },
       "geometry": {
@@ -131592,6 +132227,11 @@
             "deaths": 1
           },
           "2020-6-23": {
+            "confirmed": 10,
+            "recovered": 8,
+            "deaths": 1
+          },
+          "2020-6-24": {
             "confirmed": 10,
             "recovered": 8,
             "deaths": 1
@@ -132497,11 +133137,16 @@
             "confirmed": 164144,
             "recovered": 109885,
             "deaths": 1346
+          },
+          "2020-6-24": {
+            "confirmed": 167267,
+            "recovered": 112797,
+            "deaths": 1387
           }
         },
-        "current_confirmed": 164144,
-        "current_recovered": 109885,
-        "current_deaths": 1346
+        "current_confirmed": 167267,
+        "current_recovered": 112797,
+        "current_deaths": 1387
       },
       "geometry": {
         "type": "Polygon",
@@ -133588,6 +134233,11 @@
             "deaths": 533
           },
           "2020-6-23": {
+            "confirmed": 8889,
+            "recovered": 3699,
+            "deaths": 548
+          },
+          "2020-6-24": {
             "confirmed": 8889,
             "recovered": 3699,
             "deaths": 548
@@ -134697,10 +135347,15 @@
             "confirmed": 1930,
             "recovered": 217,
             "deaths": 36
+          },
+          "2020-6-24": {
+            "confirmed": 1942,
+            "recovered": 224,
+            "deaths": 36
           }
         },
-        "current_confirmed": 1930,
-        "current_recovered": 217,
+        "current_confirmed": 1942,
+        "current_recovered": 224,
         "current_deaths": 36
       },
       "geometry": {
@@ -135739,11 +136394,16 @@
             "confirmed": 6034,
             "recovered": 4046,
             "deaths": 89
+          },
+          "2020-6-24": {
+            "confirmed": 6233,
+            "recovered": 4162,
+            "deaths": 94
           }
         },
-        "current_confirmed": 6034,
-        "current_recovered": 4046,
-        "current_deaths": 89
+        "current_confirmed": 6233,
+        "current_recovered": 4162,
+        "current_deaths": 94
       },
       "geometry": {
         "type": "Polygon",
@@ -136705,10 +137365,15 @@
             "confirmed": 1347,
             "recovered": 853,
             "deaths": 55
+          },
+          "2020-6-24": {
+            "confirmed": 1354,
+            "recovered": 869,
+            "deaths": 55
           }
         },
-        "current_confirmed": 1347,
-        "current_recovered": 853,
+        "current_confirmed": 1354,
+        "current_recovered": 869,
         "current_deaths": 55
       },
       "geometry": {
@@ -137583,11 +138248,16 @@
             "confirmed": 4973,
             "recovered": 2814,
             "deaths": 113
+          },
+          "2020-6-24": {
+            "confirmed": 5336,
+            "recovered": 3116,
+            "deaths": 126
           }
         },
-        "current_confirmed": 4973,
-        "current_recovered": 2814,
-        "current_deaths": 113
+        "current_confirmed": 5336,
+        "current_recovered": 3116,
+        "current_deaths": 126
       },
       "geometry": {
         "type": "Polygon",
@@ -138453,10 +139123,15 @@
             "confirmed": 2812,
             "recovered": 818,
             "deaths": 90
+          },
+          "2020-6-24": {
+            "confirmed": 2835,
+            "recovered": 829,
+            "deaths": 90
           }
         },
-        "current_confirmed": 2812,
-        "current_recovered": 818,
+        "current_confirmed": 2835,
+        "current_recovered": 829,
         "current_deaths": 90
       },
       "geometry": {
@@ -139387,11 +140062,16 @@
             "confirmed": 319,
             "recovered": 132,
             "deaths": 9
+          },
+          "2020-6-24": {
+            "confirmed": 357,
+            "recovered": 154,
+            "deaths": 10
           }
         },
-        "current_confirmed": 319,
-        "current_recovered": 132,
-        "current_deaths": 9
+        "current_confirmed": 357,
+        "current_recovered": 154,
+        "current_deaths": 10
       },
       "geometry": {
         "type": "Polygon",
@@ -140281,10 +140961,15 @@
             "confirmed": 1589,
             "recovered": 1448,
             "deaths": 28
+          },
+          "2020-6-24": {
+            "confirmed": 1630,
+            "recovered": 1452,
+            "deaths": 28
           }
         },
-        "current_confirmed": 1589,
-        "current_recovered": 1448,
+        "current_confirmed": 1630,
+        "current_recovered": 1452,
         "current_deaths": 28
       },
       "geometry": {
@@ -141203,9 +141888,14 @@
             "confirmed": 1534,
             "recovered": 1376,
             "deaths": 109
+          },
+          "2020-6-24": {
+            "confirmed": 1547,
+            "recovered": 1376,
+            "deaths": 109
           }
         },
-        "current_confirmed": 1534,
+        "current_confirmed": 1547,
         "current_recovered": 1376,
         "current_deaths": 109
       },
@@ -142065,11 +142755,16 @@
             "confirmed": 60837,
             "recovered": 0,
             "deaths": 5161
+          },
+          "2020-6-24": {
+            "confirmed": 62324,
+            "recovered": 0,
+            "deaths": 5209
           }
         },
-        "current_confirmed": 60837,
+        "current_confirmed": 62324,
         "current_recovered": 0,
-        "current_deaths": 5161
+        "current_deaths": 5209
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -143157,10 +143852,15 @@
             "confirmed": 231,
             "recovered": 94,
             "deaths": 7
+          },
+          "2020-6-24": {
+            "confirmed": 242,
+            "recovered": 96,
+            "deaths": 7
           }
         },
-        "current_confirmed": 231,
-        "current_recovered": 94,
+        "current_confirmed": 242,
+        "current_recovered": 96,
         "current_deaths": 7
       },
       "geometry": {
@@ -144055,10 +144755,15 @@
             "confirmed": 860,
             "recovered": 757,
             "deaths": 74
+          },
+          "2020-6-24": {
+            "confirmed": 860,
+            "recovered": 770,
+            "deaths": 74
           }
         },
         "current_confirmed": 860,
-        "current_recovered": 757,
+        "current_recovered": 770,
         "current_deaths": 74
       },
       "geometry": {
@@ -145077,11 +145782,16 @@
             "confirmed": 576,
             "recovered": 384,
             "deaths": 13
+          },
+          "2020-6-24": {
+            "confirmed": 583,
+            "recovered": 392,
+            "deaths": 14
           }
         },
-        "current_confirmed": 576,
-        "current_recovered": 384,
-        "current_deaths": 13
+        "current_confirmed": 583,
+        "current_recovered": 392,
+        "current_deaths": 14
       },
       "geometry": {
         "type": "Polygon",
@@ -145943,10 +146653,15 @@
             "confirmed": 3156,
             "recovered": 3023,
             "deaths": 58
+          },
+          "2020-6-24": {
+            "confirmed": 3158,
+            "recovered": 3038,
+            "deaths": 58
           }
         },
-        "current_confirmed": 3156,
-        "current_recovered": 3023,
+        "current_confirmed": 3158,
+        "current_recovered": 3038,
         "current_deaths": 58
       },
       "geometry": {
@@ -146989,10 +147704,15 @@
             "confirmed": 5567,
             "recovered": 4109,
             "deaths": 52
+          },
+          "2020-6-24": {
+            "confirmed": 5630,
+            "recovered": 4194,
+            "deaths": 52
           }
         },
-        "current_confirmed": 5567,
-        "current_recovered": 4109,
+        "current_confirmed": 5630,
+        "current_recovered": 4194,
         "current_deaths": 52
       },
       "geometry": {
@@ -147943,6 +148663,11 @@
             "confirmed": 24,
             "recovered": 24,
             "deaths": 0
+          },
+          "2020-6-24": {
+            "confirmed": 24,
+            "recovered": 24,
+            "deaths": 0
           }
         },
         "current_confirmed": 24,
@@ -148777,6 +149502,11 @@
             "confirmed": 123,
             "recovered": 109,
             "deaths": 8
+          },
+          "2020-6-24": {
+            "confirmed": 123,
+            "recovered": 109,
+            "deaths": 8
           }
         },
         "current_confirmed": 123,
@@ -149599,9 +150329,14 @@
             "confirmed": 1159,
             "recovered": 1023,
             "deaths": 50
+          },
+          "2020-6-24": {
+            "confirmed": 1160,
+            "recovered": 1023,
+            "deaths": 50
           }
         },
-        "current_confirmed": 1159,
+        "current_confirmed": 1160,
         "current_recovered": 1023,
         "current_deaths": 50
       },
@@ -150513,11 +151248,16 @@
             "confirmed": 190165,
             "recovered": 162848,
             "deaths": 5001
+          },
+          "2020-6-24": {
+            "confirmed": 191657,
+            "recovered": 164234,
+            "deaths": 5025
           }
         },
-        "current_confirmed": 190165,
-        "current_recovered": 162848,
-        "current_deaths": 5001
+        "current_confirmed": 191657,
+        "current_recovered": 164234,
+        "current_deaths": 5025
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -151577,6 +152317,11 @@
             "confirmed": 446,
             "recovered": 435,
             "deaths": 7
+          },
+          "2020-6-24": {
+            "confirmed": 446,
+            "recovered": 435,
+            "deaths": 7
           }
         },
         "current_confirmed": 446,
@@ -152400,6 +153145,11 @@
             "deaths": 21
           },
           "2020-6-23": {
+            "confirmed": 509,
+            "recovered": 183,
+            "deaths": 21
+          },
+          "2020-6-24": {
             "confirmed": 509,
             "recovered": 183,
             "deaths": 21
@@ -153389,10 +154139,15 @@
             "confirmed": 797,
             "recovered": 699,
             "deaths": 0
+          },
+          "2020-6-24": {
+            "confirmed": 805,
+            "recovered": 717,
+            "deaths": 0
           }
         },
-        "current_confirmed": 797,
-        "current_recovered": 699,
+        "current_confirmed": 805,
+        "current_recovered": 717,
         "current_deaths": 0
       },
       "geometry": {
@@ -154287,11 +155042,16 @@
             "confirmed": 38901,
             "recovered": 17538,
             "deaths": 1045
+          },
+          "2020-6-24": {
+            "confirmed": 40854,
+            "recovered": 18365,
+            "deaths": 1078
           }
         },
-        "current_confirmed": 38901,
-        "current_recovered": 17538,
-        "current_deaths": 1045
+        "current_confirmed": 40854,
+        "current_recovered": 18365,
+        "current_deaths": 1078
       },
       "geometry": {
         "type": "Polygon",
@@ -155469,11 +156229,16 @@
             "confirmed": 885,
             "recovered": 815,
             "deaths": 25
+          },
+          "2020-6-24": {
+            "confirmed": 902,
+            "recovered": 815,
+            "deaths": 26
           }
         },
-        "current_confirmed": 885,
+        "current_confirmed": 902,
         "current_recovered": 815,
-        "current_deaths": 25
+        "current_deaths": 26
       },
       "geometry": {
         "type": "Polygon",
@@ -156343,11 +157108,16 @@
             "confirmed": 2347022,
             "recovered": 647548,
             "deaths": 121228
+          },
+          "2020-6-24": {
+            "confirmed": 2381369,
+            "recovered": 656161,
+            "deaths": 121979
           }
         },
-        "current_confirmed": 2347022,
-        "current_recovered": 647548,
-        "current_deaths": 121228
+        "current_confirmed": 2381369,
+        "current_recovered": 656161,
+        "current_deaths": 121979
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -158943,10 +159713,15 @@
             "confirmed": 6662,
             "recovered": 4560,
             "deaths": 19
+          },
+          "2020-6-24": {
+            "confirmed": 6990,
+            "recovered": 4685,
+            "deaths": 19
           }
         },
-        "current_confirmed": 6662,
-        "current_recovered": 4560,
+        "current_confirmed": 6990,
+        "current_recovered": 4685,
         "current_deaths": 19
       },
       "geometry": {
@@ -159949,11 +160724,16 @@
             "confirmed": 4187,
             "recovered": 1327,
             "deaths": 35
+          },
+          "2020-6-24": {
+            "confirmed": 4366,
+            "recovered": 1327,
+            "deaths": 38
           }
         },
-        "current_confirmed": 4187,
+        "current_confirmed": 4366,
         "current_recovered": 1327,
-        "current_deaths": 35
+        "current_deaths": 38
       },
       "geometry": {
         "type": "Polygon",
@@ -161107,9 +161887,14 @@
             "confirmed": 349,
             "recovered": 329,
             "deaths": 0
+          },
+          "2020-6-24": {
+            "confirmed": 352,
+            "recovered": 329,
+            "deaths": 0
           }
         },
-        "current_confirmed": 349,
+        "current_confirmed": 352,
         "current_recovered": 329,
         "current_deaths": 0
       },
@@ -162073,9 +162858,14 @@
             "confirmed": 1169,
             "recovered": 442,
             "deaths": 3
+          },
+          "2020-6-24": {
+            "confirmed": 1362,
+            "recovered": 442,
+            "deaths": 3
           }
         },
-        "current_confirmed": 1169,
+        "current_confirmed": 1362,
         "current_recovered": 442,
         "current_deaths": 3
       },
@@ -162899,11 +163689,16 @@
             "confirmed": 992,
             "recovered": 356,
             "deaths": 261
+          },
+          "2020-6-24": {
+            "confirmed": 1015,
+            "recovered": 379,
+            "deaths": 274
           }
         },
-        "current_confirmed": 992,
-        "current_recovered": 356,
-        "current_deaths": 261
+        "current_confirmed": 1015,
+        "current_recovered": 379,
+        "current_deaths": 274
       },
       "geometry": {
         "type": "Polygon",
@@ -163865,11 +164660,16 @@
             "confirmed": 106108,
             "recovered": 55045,
             "deaths": 2102
+          },
+          "2020-6-24": {
+            "confirmed": 111796,
+            "recovered": 56874,
+            "deaths": 2205
           }
         },
-        "current_confirmed": 106108,
-        "current_recovered": 55045,
-        "current_deaths": 2102
+        "current_confirmed": 111796,
+        "current_recovered": 56874,
+        "current_deaths": 2205
       },
       "geometry": {
         "type": "Polygon",
@@ -165033,10 +165833,15 @@
             "confirmed": 1477,
             "recovered": 1213,
             "deaths": 18
+          },
+          "2020-6-24": {
+            "confirmed": 1497,
+            "recovered": 1223,
+            "deaths": 18
           }
         },
-        "current_confirmed": 1477,
-        "current_recovered": 1213,
+        "current_confirmed": 1497,
+        "current_recovered": 1223,
         "current_deaths": 18
       },
       "geometry": {
@@ -166067,10 +166872,15 @@
             "confirmed": 525,
             "recovered": 64,
             "deaths": 6
+          },
+          "2020-6-24": {
+            "confirmed": 530,
+            "recovered": 123,
+            "deaths": 6
           }
         },
-        "current_confirmed": 525,
-        "current_recovered": 64,
+        "current_confirmed": 530,
+        "current_recovered": 123,
         "current_deaths": 6
       },
       "geometry": {
