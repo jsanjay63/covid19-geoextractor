@@ -82098,13 +82098,13 @@
             "deaths": 972
           },
           "2020-6-29": {
-            "confirmed": 18477,
-            "recovered": 16392,
+            "confirmed": 18476,
+            "recovered": 16388,
             "deaths": 972
           }
         },
-        "current_confirmed": 18477,
-        "current_recovered": 16392,
+        "current_confirmed": 18476,
+        "current_recovered": 16388,
         "current_deaths": 972
       },
       "geometry": {
@@ -150230,13 +150230,13 @@
             "deaths": 58
           },
           "2020-6-29": {
-            "confirmed": 3171,
-            "recovered": 3056,
+            "confirmed": 3169,
+            "recovered": 3053,
             "deaths": 58
           }
         },
-        "current_confirmed": 3171,
-        "current_recovered": 3056,
+        "current_confirmed": 3169,
+        "current_recovered": 3053,
         "current_deaths": 58
       },
       "geometry": {
@@ -158844,14 +158844,14 @@
             "deaths": 1142
           },
           "2020-6-29": {
-            "confirmed": 45244,
-            "recovered": 19767,
-            "deaths": 1173
+            "confirmed": 44538,
+            "recovered": 19679,
+            "deaths": 1161
           }
         },
-        "current_confirmed": 45244,
-        "current_recovered": 19767,
-        "current_deaths": 1173
+        "current_confirmed": 44538,
+        "current_recovered": 19679,
+        "current_deaths": 1161
       },
       "geometry": {
         "type": "Polygon",
@@ -160960,14 +160960,14 @@
             "deaths": 125803
           },
           "2020-6-29": {
-            "confirmed": 2590582,
+            "confirmed": 2590552,
             "recovered": 705203,
-            "deaths": 126141
+            "deaths": 126140
           }
         },
-        "current_confirmed": 2590582,
+        "current_confirmed": 2590552,
         "current_recovered": 705203,
-        "current_deaths": 126141
+        "current_deaths": 126140
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -163590,12 +163590,12 @@
             "deaths": 22
           },
           "2020-6-29": {
-            "confirmed": 8298,
+            "confirmed": 8222,
             "recovered": 5496,
             "deaths": 23
           }
         },
-        "current_confirmed": 8298,
+        "current_confirmed": 8222,
         "current_recovered": 5496,
         "current_deaths": 23
       },
