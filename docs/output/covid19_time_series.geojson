@@ -160960,12 +160960,12 @@
             "deaths": 125803
           },
           "2020-6-29": {
-            "confirmed": 2590552,
+            "confirmed": 2590741,
             "recovered": 705203,
             "deaths": 126140
           }
         },
-        "current_confirmed": 2590552,
+        "current_confirmed": 2590741,
         "current_recovered": 705203,
         "current_deaths": 126140
       },
