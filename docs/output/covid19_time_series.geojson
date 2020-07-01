@@ -161590,32 +161590,32 @@
             "deaths": 106136
           },
           "2020-6-2": {
-            "confirmed": 1837367,
+            "confirmed": 1837371,
             "recovered": 463868,
             "deaths": 107169
           },
           "2020-6-3": {
-            "confirmed": 1857248,
+            "confirmed": 1857303,
             "recovered": 479258,
             "deaths": 108159
           },
           "2020-6-4": {
-            "confirmed": 1878543,
+            "confirmed": 1878654,
             "recovered": 485002,
             "deaths": 109168
           },
           "2020-6-5": {
-            "confirmed": 1903854,
+            "confirmed": 1903859,
             "recovered": 491706,
             "deaths": 110138
           },
           "2020-6-6": {
-            "confirmed": 1926538,
+            "confirmed": 1926623,
             "recovered": 500849,
             "deaths": 110818
           },
           "2020-6-7": {
-            "confirmed": 1944309,
+            "confirmed": 1944325,
             "recovered": 506367,
             "deaths": 111269
           },
@@ -161725,9 +161725,9 @@
             "deaths": 126349
           },
           "2020-6-29": {
-            "confirmed": 2590651,
+            "confirmed": 2590178,
             "recovered": 705203,
-            "deaths": 126140
+            "deaths": 126698
           },
           "2020-6-30": {
             "confirmed": 2635417,
