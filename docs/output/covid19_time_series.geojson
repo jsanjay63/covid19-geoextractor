@@ -162427,87 +162427,87 @@
           "2020-6-16": {
             "confirmed": 2137731,
             "recovered": 583503,
-            "deaths": 117611
+            "deaths": 117612
           },
           "2020-6-17": {
             "confirmed": 2163290,
             "recovered": 592191,
-            "deaths": 118362
+            "deaths": 118363
           },
           "2020-6-18": {
             "confirmed": 2191099,
             "recovered": 599115,
-            "deaths": 119066
+            "deaths": 119067
           },
           "2020-6-19": {
             "confirmed": 2222579,
             "recovered": 606715,
-            "deaths": 119738
+            "deaths": 119739
           },
           "2020-6-20": {
             "confirmed": 2255327,
             "recovered": 617460,
-            "deaths": 120348
+            "deaths": 120349
           },
           "2020-6-21": {
             "confirmed": 2281766,
             "recovered": 622133,
-            "deaths": 120603
+            "deaths": 120604
           },
           "2020-6-22": {
             "confirmed": 2312302,
             "recovered": 640198,
-            "deaths": 121009
+            "deaths": 121010
           },
           "2020-6-23": {
             "confirmed": 2347491,
             "recovered": 647548,
-            "deaths": 121846
+            "deaths": 121847
           },
           "2020-6-24": {
             "confirmed": 2382426,
             "recovered": 656161,
-            "deaths": 122603
+            "deaths": 122604
           },
           "2020-6-25": {
             "confirmed": 2422299,
             "recovered": 663562,
-            "deaths": 125025
+            "deaths": 125026
           },
           "2020-6-26": {
             "confirmed": 2467554,
             "recovered": 670809,
-            "deaths": 125630
+            "deaths": 125631
           },
           "2020-6-27": {
             "confirmed": 2510259,
             "recovered": 679308,
-            "deaths": 126119
+            "deaths": 126120
           },
           "2020-6-28": {
             "confirmed": 2549294,
             "recovered": 685164,
-            "deaths": 126359
+            "deaths": 126360
           },
           "2020-6-29": {
             "confirmed": 2590668,
             "recovered": 705203,
-            "deaths": 126710
+            "deaths": 126711
           },
           "2020-6-30": {
             "confirmed": 2636414,
             "recovered": 720631,
-            "deaths": 127431
+            "deaths": 127432
           },
           "2020-7-1": {
-            "confirmed": 2687327,
+            "confirmed": 2687588,
             "recovered": 729994,
-            "deaths": 128077
+            "deaths": 128105
           }
         },
-        "current_confirmed": 2687327,
+        "current_confirmed": 2687588,
         "current_recovered": 729994,
-        "current_deaths": 128077
+        "current_deaths": 128105
       },
       "geometry": {
         "type": "MultiPolygon",
