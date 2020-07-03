@@ -83969,12 +83969,12 @@
           },
           "2020-7-1": {
             "confirmed": 42574,
-            "recovered": 25319,
+            "recovered": 14059,
             "deaths": 188
           }
         },
         "current_confirmed": 42574,
-        "current_recovered": 25319,
+        "current_recovered": 14059,
         "current_deaths": 188
       },
       "geometry": {
