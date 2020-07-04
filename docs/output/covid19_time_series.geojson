@@ -163270,14 +163270,14 @@
             "deaths": 128105
           },
           "2020-7-2": {
-            "confirmed": 2741180,
+            "confirmed": 2742049,
             "recovered": 781970,
-            "deaths": 128740
+            "deaths": 128803
           }
         },
-        "current_confirmed": 2741180,
+        "current_confirmed": 2742049,
         "current_recovered": 781970,
-        "current_deaths": 128740
+        "current_deaths": 128803
       },
       "geometry": {
         "type": "MultiPolygon",
