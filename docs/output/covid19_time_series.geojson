@@ -21556,12 +21556,12 @@
           "2020-7-3": {
             "confirmed": 1539081,
             "recovered": 984615,
-            "deaths": 61884
+            "deaths": 63174
           }
         },
         "current_confirmed": 1539081,
         "current_recovered": 984615,
-        "current_deaths": 61884
+        "current_deaths": 63174
       },
       "geometry": {
         "type": "Polygon",
