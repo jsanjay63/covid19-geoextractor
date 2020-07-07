@@ -165570,24 +165570,24 @@
             "deaths": 128803
           },
           "2020-7-3": {
-            "confirmed": 2794153,
+            "confirmed": 2795361,
             "recovered": 790404,
-            "deaths": 129434
+            "deaths": 129442
           },
           "2020-7-4": {
-            "confirmed": 2839436,
+            "confirmed": 2841241,
             "recovered": 894325,
-            "deaths": 129676
+            "deaths": 129689
           },
           "2020-7-5": {
-            "confirmed": 2888635,
+            "confirmed": 2891124,
             "recovered": 906763,
-            "deaths": 129947
+            "deaths": 129960
           }
         },
-        "current_confirmed": 2888635,
+        "current_confirmed": 2891124,
         "current_recovered": 906763,
-        "current_deaths": 129947
+        "current_deaths": 129960
       },
       "geometry": {
         "type": "MultiPolygon",
