@@ -86699,12 +86699,12 @@
           },
           "2020-7-8": {
             "confirmed": 51059,
-            "recovered": 16298,
+            "recovered": 35137,
             "deaths": 264
           }
         },
         "current_confirmed": 51059,
-        "current_recovered": 16298,
+        "current_recovered": 35137,
         "current_deaths": 264
       },
       "geometry": {
@@ -167891,12 +167891,12 @@
           },
           "2020-7-8": {
             "confirmed": 3054699,
-            "recovered": 953420,
+            "recovered": 953462,
             "deaths": 132300
           }
         },
         "current_confirmed": 3054699,
-        "current_recovered": 953420,
+        "current_recovered": 953462,
         "current_deaths": 132300
       },
       "geometry": {
