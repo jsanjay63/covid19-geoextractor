@@ -3,6 +3,8 @@ GeoFormats like Geojson time-series of Coronavirus cases (confirmed, deaths and 
 
 Transforms the data from [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) into a GeoFormat datasets like Geojson file. Available at [https://jsanjay63.github.io/covid19-geoextractor/output/covid19_time_series.geojson](https://jsanjay63.github.io/covid19-geoextractor/output/covid19_time_series.geojson). Updated every 2 hours using GitHub Actions.
 
+# Note: Deprecated - This project is no longer supported/maintained anymore.
+
 The Geojson contains the number of Coronavirus confirmed cases, deaths, and recovered cases for every country and every day since 2020-1-22:
 
 ```
