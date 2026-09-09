@@ -8,7 +8,7 @@
     "test": "test"
   },
   "dependencies": {
-    "csv-parse": "^4.8.9"
+    "csv-parse": "^7.0.2"
   },
   "devDependencies": {},
   "scripts": {
